@@ -1,5 +1,5 @@
 <h3 align="center">
-    <a href="https://datash.co/">
+    <a href="https://datash.roulabs.com/">
         <img height="100" src="https://raw.githubusercontent.com/datash/datash/master/logo.png" alt="logo" title="Datash">
     </a>
 </h1>
@@ -20,13 +20,13 @@ Datash helps you to send or receive text or file from one device to another one 
 
 ## How to use?
 
-If you want to send something to someone, visit [datash.co](https://datash.co) and also let recipient open the same link, select the files or enter text you want to send and enter the `Recipient ID` shown on the top of centered control panel of recipient device, then hit `Send Securely` button to let it encrypt and send to your recipient device.
+If you want to send something to someone, visit [datash.co](https://datash.roulabs.com/) and also let recipient open the same link, select the files or enter text you want to send and enter the `Recipient ID` shown on the top of centered control panel of recipient device, then hit `Send Securely` button to let it encrypt and send to your recipient device.
 
-For more details visit [datash.co](https://datash.co/about).
+For more details visit [datash.co](https://datash.roulabs.com/about).
 
 ## Feedback
 
-Give me your valuable feedback or opinion [here](https://datash.co/feedback) or by creating Github [issue](https://github.com/datash/datash/issues/new).
+Give me your valuable feedback or opinion [here](https://datash.roulabs.com/feedback) or by creating Github [issue](https://github.com/datash/datash/issues/new).
 
 ## Contributing
 
