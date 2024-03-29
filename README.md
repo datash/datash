@@ -20,9 +20,9 @@ Datash helps you to send or receive text or file from one device to another one 
 
 ## How to use?
 
-If you want to send something to someone, visit [datash.co](https://datash.roulabs.com/) and also let recipient open the same link, select the files or enter text you want to send and enter the `Recipient ID` shown on the top of centered control panel of recipient device, then hit `Send Securely` button to let it encrypt and send to your recipient device.
+If you want to send something to someone, visit [datash.roulabs.com](https://datash.roulabs.com/) and also let recipient open the same link, select the files or enter text you want to send and enter the `Recipient ID` shown on the top of centered control panel of recipient device, then hit `Send Securely` button to let it encrypt and send to your recipient device.
 
-For more details visit [datash.co](https://datash.roulabs.com/about).
+For more details visit [datash.roulabs.com](https://datash.roulabs.com/about).
 
 ## Feedback
 
